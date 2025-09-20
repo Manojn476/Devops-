@@ -1,0 +1,5 @@
+my_wsgi_app/
+│── app.py
+│── wsgi.py
+│── .env
+│── requirements.txt
